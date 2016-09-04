@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'adidas_Example' do
+  pod 'adidas', :path => '../'
+
+  target 'adidas_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
