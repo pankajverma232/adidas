@@ -1,0 +1,16 @@
+PODS:
+  - adidas (0.1.0)
+
+DEPENDENCIES:
+  - adidas (from `../`)
+
+EXTERNAL SOURCES:
+  adidas:
+    :path: ../
+
+SPEC CHECKSUMS:
+  adidas: 45b922150ad322d0d2009f65f5cfb4c3ac40b807
+
+PODFILE CHECKSUM: 4a3c0f3786323c963bc26616138f2f05038335a4
+
+COCOAPODS: 1.0.1

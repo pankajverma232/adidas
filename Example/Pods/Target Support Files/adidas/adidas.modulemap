@@ -1,0 +1,6 @@
+framework module adidas {
+  umbrella header "adidas-umbrella.h"
+
+  export *
+  module * { export * }
+}
