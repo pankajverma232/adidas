@@ -1,5 +1,5 @@
 PODS:
-  - adidas (0.1.0)
+  - adidas (0.1.1)
 
 DEPENDENCIES:
   - adidas (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  adidas: 45b922150ad322d0d2009f65f5cfb4c3ac40b807
+  adidas: 3e73a2dedde0b915a1a4b0f606f03738fed51038
 
 PODFILE CHECKSUM: 4a3c0f3786323c963bc26616138f2f05038335a4
 

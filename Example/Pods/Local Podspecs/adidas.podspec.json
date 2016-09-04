@@ -1,9 +1,9 @@
 {
   "name": "adidas",
-  "version": "0.1.0",
-  "summary": "A short description of adidas.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/adidas",
+  "version": "0.1.1",
+  "summary": "this is adidas.",
+  "description": "Adidas is a big brand of shoes.",
+  "homepage": "https://github.com/pankajverma232/adidas",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "pankaj verma": "pankaj.verma@timesinternet.in"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/adidas.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/pankajverma232/adidas.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
