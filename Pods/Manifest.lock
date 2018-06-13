@@ -1,0 +1,16 @@
+PODS:
+  - Linkedin (1.1.1)
+
+DEPENDENCIES:
+  - Linkedin (from `~/Study/pods/linkedin/`)
+
+EXTERNAL SOURCES:
+  Linkedin:
+    :path: ~/Study/pods/linkedin/
+
+SPEC CHECKSUMS:
+  Linkedin: d8f814b5fd5fbc3d6b381808e7b203f86a8d1981
+
+PODFILE CHECKSUM: ce16988baa1729d22b9c072682763c9686ea864c
+
+COCOAPODS: 1.4.0

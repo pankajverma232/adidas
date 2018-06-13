@@ -1,0 +1,22 @@
+{
+  "name": "Linkedin",
+  "version": "1.1.1",
+  "summary": "Linked login",
+  "description": "This pod will provide linkedin login",
+  "homepage": "http://tilsdk.indiatimes.com/",
+  "license": {
+    "type": "PRIVATE"
+  },
+  "authors": {
+    "Pankaj Verma": "pankaj.verma@timesinternet.in"
+  },
+  "source": {
+    "git": "https://github.com/pankajverma232/adidas.git",
+    "tag": "1.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*"
+}
